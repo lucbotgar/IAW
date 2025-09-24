@@ -30,10 +30,10 @@ Enlace a URL
 (https://www.google.com)
 
 Enlace fichero markdown
-(./mddeprueba.md)
+[Enlace fichero markdown](./mddeprueba.md)
 
 Imagen
-!(./logogoogle.jpg)
+![Imagen](./logogoogle.jpg)
 
 Tabla
 
