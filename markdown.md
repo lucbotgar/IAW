@@ -30,7 +30,7 @@ Enlace a URL
 (https://www.google.com)
 
 Enlace fichero markdown
-(./mdprueba.md)
+(./mddeprueba.md)
 
 Imagen
 !(./logogoogle.jpg)
