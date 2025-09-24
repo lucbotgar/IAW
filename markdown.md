@@ -30,15 +30,17 @@ Enlace a URL
 (https://www.google.com)
 
 Enlace fichero markdown
-(C:\Users\Lucas\Documents\IAW\mdprueba.md)
+(./mdprueba.md)
 
 Imagen
-!(logogoogle.jpg)
+!(./logogoogle.jpg)
 
 Tabla
 
-| Tabla |
-| ----------- | ----------- |
-| Cabecera | Titulo |
-| Texto |
+
+| Puesto | Equipo          | País        |
+|--------|-----------------|-------------|
+| 1      | Real Madrid     | España      |
+| 2      | Manchester City | Inglaterra  |
+| 3      | Bayern Múnich   | Alemania    |
 
